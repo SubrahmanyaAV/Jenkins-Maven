@@ -14,5 +14,9 @@ public class App
     public int add(int x, int y)
     {
         return x + y;
-    }    
+    }  
+    
+    public void Hello(){
+    	System.out.println("Hi");
+    }
 }
